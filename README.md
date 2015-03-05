@@ -1,4 +1,4 @@
-# twbs-BaP
+# Twitter Bootstrap - Bits and Pieces Plugins
 
 Bootstrap Bits and Pieces is a serie of css/less/sass files adding new modular functionalities to Bootstrap.
 
